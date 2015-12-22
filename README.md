@@ -8,3 +8,12 @@ Steps to deploy:
 3)launch index.html
 
 
+
+
+for Demo:
+
+
+
+https://rawgit.com/shishirarora3/mouse-follower/master/index.html
+
+
