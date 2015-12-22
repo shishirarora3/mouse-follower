@@ -1,0 +1,30 @@
+{
+  "name": "email-tagging-text-input",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "babelify": "^7.2.0",
+    "backbone": "^1.2.3",
+    "backbone-react-component": "^0.10.0",
+    "backbone-xhr-events": "^1.0.1",
+    "backbone.marionette": "^2.4.3",
+    "browserify": "^12.0.1",
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-react": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "jquery": "^2.1.4",
+    "node-notifier": "^4.4.0",
+    "react": "^0.14.3",
+    "react-backbone": "^1.0.5",
+    "react-dom": "^0.14.3",
+    "react-events": "^1.0.1",
+    "react-mixin-manager": "^1.0.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  }
+}
